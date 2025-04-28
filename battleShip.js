@@ -1,6 +1,6 @@
 const damagedOrSunk = (board, attacks) => {
 
-
+    let attacks=[[2,1],[1,3],[4,2]]
 
     let result = {
         sunk: 0,
